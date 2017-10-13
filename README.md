@@ -1,1 +1,1 @@
-This is a homework finished after learning HTML and CSS.
+some works made while learning front end
